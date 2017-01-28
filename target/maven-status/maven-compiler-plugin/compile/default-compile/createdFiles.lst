@@ -1,0 +1,4 @@
+com\naveen\springBoot\ServletInitializer.class
+controller\PersonController.class
+com\nav\model\Person.class
+com\naveen\springBoot\ConfigureMvcApplication.class
